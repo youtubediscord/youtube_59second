@@ -12,7 +12,7 @@
 ## Как установить
 1. **Перейти на страницу `about:extensions` и включить ползунок `Режим разработчика`. Без этого скрипт не будет работать!**
 2. Загрузите расширение https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
-3. Установите скрипт https://codeberg.org/censorliber/zapret/raw/branch/main/youtube_unblock.user.js
+3. Установите скрипт https://github.com/youtubediscord/youtube_59second/raw/refs/heads/main/youtube.user.js
 4. Запустите любую стратегию Zapret
 5. Попробуйте начать смотреть YouTube
 
